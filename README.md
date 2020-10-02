@@ -10,6 +10,8 @@ While intimidating at first, being able to look at code and find where it can be
 This project, ostensibly, is for a SEO company that is looking for a useful website to display their brand that is built with standard CSS and HTML semantics that lend 
 themselves well to web accessibility. 
 
+![code refactor demo](screencap.png)
+
 ## Installation
 
 You can download this file and open index.html in your favorite browser in order to see the results. You can also feel free to use your favorite text editor to 
